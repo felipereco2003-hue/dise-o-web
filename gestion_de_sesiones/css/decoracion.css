@@ -1,0 +1,58 @@
+
+body{
+background-color: burlywood;
+margin: 0;
+padding: 0;
+}
+
+h1 { 
+color: black;
+font-size: 50px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+text-align:center;
+}
+h2{ 
+    color:black;
+    font: size 40px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+.buscar{
+    background-color: aquamarine;
+    text-align: center 100px;
+    font-size: 30px;
+    word-spacing: 10px;
+    height: 50px;
+    padding: 10px 15px;
+    display: flex;
+
+}
+.boton1{
+background-color: beige;
+border: 30px;
+padding: 15px 32px;
+text-align: center;
+color: blue;
+font-size: 20px;
+margin: 6px 4px;
+cursor: pointer;
+text-decoration: none;
+}
+
+.boton2{
+background-color: beige;
+border: 30px;
+padding: 15px 32px;
+text-align: center;
+color: blue;
+font-size: 20px;
+margin: 4px 2px;
+cursor: pointer;
+text-decoration: none;
+}
+.formulario{
+    margin-top: 20px;
+    
+}
